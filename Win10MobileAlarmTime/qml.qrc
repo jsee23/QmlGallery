@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>jsee23/universal/IconTabButton.qml</file>
+        <file>jsee23/universal/IconTabBar.qml</file>
+        <file>jsee23/universal/AppBar.qml</file>
+        <file>jsee23/universal/AppBarButton.qml</file>
+        <file>jsee23/universal/AppBarItemDelegate.qml</file>
+        <file>ClockAlarmPage.qml</file>
+        <file>WorldClockPage.qml</file>
+        <file>CountdownPage.qml</file>
+        <file>StopwatchPage.qml</file>
+        <file>img/clockalarm.png</file>
+        <file>img/clockalarm_checked.png</file>
+        <file>img/stopwatch.png</file>
+        <file>img/stopwatch_checked.png</file>
+        <file>img/worldclock.png</file>
+        <file>img/worldclock_checked.png</file>
+        <file>jsee23/universal/AppBarSecondaryCommand.qml</file>
+    </qresource>
+</RCC>

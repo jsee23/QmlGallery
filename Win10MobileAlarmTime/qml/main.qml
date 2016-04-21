@@ -2,6 +2,7 @@ import QtQuick 2.6
 import Qt.labs.controls 1.0
 import Qt.labs.controls.universal 1.0
 import jsee23.universal 0.1
+import "./pages"
 
 ApplicationWindow {
     id: root

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/jsee23/universal/StaticTabBar.qml</file>
+        <file>qml/pages/StartPage.qml</file>
+        <file>qml/pages/AppsPage.qml</file>
+        <file>qml/pages/GamesPage.qml</file>
+        <file>qml/pages/MusicPage.qml</file>
+        <file>qml/pages/FilmsPage.qml</file>
+        <file>qml/jsee23/universal/SearchBox.qml</file>
+    </qresource>
+</RCC>
